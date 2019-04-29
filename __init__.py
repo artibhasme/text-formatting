@@ -1,0 +1,1 @@
+#should be a blank file when startproject is run
